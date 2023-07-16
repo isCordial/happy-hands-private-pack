@@ -1,7 +1,7 @@
 {
   "name": "Happy_Hands_Private_Pack",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/Regis1272/happy-hands-private-pack/",
   "description": "Premier modpack for fighting RSI (not really -- yet),",
   "dependencies": [
     "BepInEx-BepInExPack_H3VR-5.4.1101",
